@@ -1,0 +1,63 @@
+INSTALL
+=======
+
+Para su correcto funcionamiento el programa necesita lo siguiente:
+ o Python 2.7
+ o OpenCV
+ o Genshi
+
+A continuación se describirá como instalar cada uno. OpenCV
+
+Python 2.7 - Linux
+==================
+
+Python regularmente está pre-instalado en sistemas operativos Linux
+(confirmado en Ubuntu y Fedora), pero en caso de no ser así, el 
+source puede ser descargado desde:
+
+http://www.python.org/getit/
+
+
+Python 2.7 - Windows
+====================
+
+Para instalar Python en Windows, es posible descargar el instalador
+desde el enlace:
+
+http://www.python.org/getit/
+
+
+OpenCV - Python
+===============
+
+En Ubuntu, ejecutar el comando:
+
+sudo apt-get install python-opencv
+
+Ingresar la contraseña de superusuario.
+
+
+OpenCV - Windows
+================
+
+Descargar el instalador desde el siguiente enlace:
+
+http://opencv.willowgarage.com/wiki/InstallGuide
+
+Ejecutar el instalador y seguir las instrucciones.
+
+Genshi - Ubuntu
+================
+
+En Ubuntu, ejecutar el comando:
+sudo pip install Genshi ó sudo easy_install Genshi
+
+
+Genshi - Windows
+================
+
+Descargar el instalador desde el siguiente enlace:
+
+http://genshi.edgewall.org/wiki/Download
+
+Ejecutar el instalador y seguir las instrucciones.
